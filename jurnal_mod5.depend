@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1634796503 source:e:\file kuliah\semester 3\struktur data\tugas\codingan\jurnal_mod5\main.cpp
+	<iostream>
+	"mod5.h"
+
+1634797771 e:\file kuliah\semester 3\struktur data\tugas\codingan\jurnal_mod5\mod5.h
+	<iostream>
+
+1634736237 source:e:\file kuliah\semester 3\struktur data\tugas\codingan\jurnal_mod5\mod5.cpp
+	"mod5.h"
+
+1634734217 source:e:\file kuliah\semester 3\struktur data\tugas\codingan\jurnal_mod5\newmain.cpp
+	"mod5.h"
+
+1634799302 source:e:\file kuliah\semester 3\struktur data\tugas\codingan\std_mod4_if-4401_1301204173_btw\main.cpp
+	<iostream>
+	"mod5.h"
+
+1634797771 e:\file kuliah\semester 3\struktur data\tugas\codingan\std_mod4_if-4401_1301204173_btw\mod5.h
+	<iostream>
+
+1634797842 source:e:\file kuliah\semester 3\struktur data\tugas\codingan\std_mod4_if-4401_1301204173_btw\mod5.cpp
+	"mod5.h"
+
